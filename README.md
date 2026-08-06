@@ -30,16 +30,18 @@ github_since: "2017"
 <!-- GitHub 统计 -->
 ## 📊 GitHub Stats
 
+<!-- 由 .github/workflows/profile-cards.yml 自动生成，每日刷新，不依赖第三方运行时服务 -->
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=IALin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170px" src="https://streak-stats.demolab.com/?user=IALin&theme=tokyonight&hide_border=true" />
+<img height="170px" src="https://raw.githubusercontent.com/IALin/IALin/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img height="170px" src="https://raw.githubusercontent.com/IALin/IALin/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IALin&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/IALin/IALin/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/IALin/IALin/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 
 </div>
 
